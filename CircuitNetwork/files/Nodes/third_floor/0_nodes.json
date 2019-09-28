@@ -1,0 +1,329 @@
+[
+  {
+    "clusterID": "A",
+    "clusterLabel": "Meter",
+    "clusterDescription": " Meter ID",
+    "nodes": []
+  },
+  {
+    "clusterID": "B",
+    "clusterLabel": "Outlet",
+    "clusterDescription": "",
+    "nodes": [
+      {
+        "id": 0,
+        "nodeLabel": "AHU1",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 1,
+        "nodeLabel": "AHU2",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 2,
+        "nodeLabel": "AHU10",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 3,
+        "nodeLabel": "AHU11",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 4,
+        "nodeLabel": "AHU12",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 5,
+        "nodeLabel": "AHU13",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 6,
+        "nodeLabel": "AF10",
+        "nodeDescription": "Exhaust fan",
+        "polarity": "BOTH"
+      }
+    ]
+  },
+  {
+    "clusterID": "C",
+    "clusterLabel": "Area Served",
+    "clusterDescription": "The area in this floor served by linked units",
+    "nodes": [
+      {
+        "id": 0,
+        "nodeLabel": "3002",
+        "nodeDescription": "Exhaust fan",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 1,
+        "nodeLabel": "3013",
+        "nodeDescription": "Exhaust fan",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 2,
+        "nodeLabel": "3015",
+        "nodeDescription": "Exhaust fan",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 3,
+        "nodeLabel": "3017",
+        "nodeDescription": "Exhaust fan",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 4,
+        "nodeLabel": "3081",
+        "nodeDescription": "Exhaust fan",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 5,
+        "nodeLabel": "c3000, c3002 (A1&A2)",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 6,
+        "nodeLabel": "c3010, c3070, c3080",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 7,
+        "nodeLabel": "3080 (A1&A2)",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 8,
+        "nodeLabel": "3001, 3003",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 9,
+        "nodeLabel": "3081A2",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 10,
+        "nodeLabel": "3072",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 11,
+        "nodeLabel": "3016, 16A, 18, 20",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 12,
+        "nodeLabel": "3022, 22A1, 24, 26",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 13,
+        "nodeLabel": "3034, 3036",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 14,
+        "nodeLabel": "3025, 3027",
+        "nodeDescription": "Bathrooms",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 15,
+        "nodeLabel": "3038, 40, 42, 44",
+        "nodeDescription": "Bathrooms",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 16,
+        "nodeLabel": "3046, 48, 50, 52",
+        "nodeDescription": "Bathrooms",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 17,
+        "nodeLabel": "3054, 56",
+        "nodeDescription": "Bathrooms",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 18,
+        "nodeLabel": "3058, 60, 62, 64",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 19,
+        "nodeLabel": "3066, 68",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 20,
+        "nodeLabel": "3030",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 21,
+        "nodeLabel": "c3001, c3020",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 22,
+        "nodeLabel": "3014",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 23,
+        "nodeLabel": "3065",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 24,
+        "nodeLabel": "3005",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 25,
+        "nodeLabel": "3070",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 26,
+        "nodeLabel": "3071",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 27,
+        "nodeLabel": "3073",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 28,
+        "nodeLabel": "3075",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 29,
+        "nodeLabel": "3077",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 30,
+        "nodeLabel": "3007, 09, 11",
+        "nodeDescription": "Bathrooms",
+        "polarity": "BOTH"
+      }
+    ]
+  },
+  {
+    "clusterID": "D",
+    "clusterLabel": "Area function",
+    "clusterDescription": "",
+    "nodes": [
+      {
+        "id": 0,
+        "nodeLabel": "Auditorium",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 1,
+        "nodeLabel": "Laboratory",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 2,
+        "nodeLabel": "Classroom",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 3,
+        "nodeLabel": "Administrative office",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 4,
+        "nodeLabel": "Faculty office",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 5,
+        "nodeLabel": "Bathroom",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 6,
+        "nodeLabel": "Janitor facility",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 7,
+        "nodeLabel": "Lobby or corridor",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 8,
+        "nodeLabel": "Meeting/conference room",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 9,
+        "nodeLabel": "Cafe",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 10,
+        "nodeLabel": "Collaboration space",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 11,
+        "nodeLabel": "Grad student office",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      }
+    ]
+  }
+]

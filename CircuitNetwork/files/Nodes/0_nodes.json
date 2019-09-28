@@ -1,0 +1,26 @@
+[
+  {
+    "clusterID": "A",
+    "clusterLabel": "Meter",
+    "clusterDescription": " Meter ID",
+    "nodes": []
+  },
+  {
+    "clusterID": "B",
+    "clusterLabel": "Outlet",
+    "clusterDescription": "",
+    "nodes": []
+  },
+  {
+    "clusterID": "C",
+    "clusterLabel": "Area Served",
+    "clusterDescription": "The area in this floor served by linked units",
+    "nodes": []
+  },
+  {
+    "clusterID": "D",
+    "clusterLabel": "Area function",
+    "clusterDescription": "",
+    "nodes": []
+  }
+]

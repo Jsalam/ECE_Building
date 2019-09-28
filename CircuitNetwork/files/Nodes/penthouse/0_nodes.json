@@ -1,0 +1,70 @@
+[
+  {
+    "clusterID": "A",
+    "clusterLabel": "Meter",
+    "clusterDescription": " Meter ID",
+    "nodes": []
+  },
+  {
+    "clusterID": "B",
+    "clusterLabel": "Outlet",
+    "clusterDescription": "",
+    "nodes": [
+      {
+        "id": 0,
+        "nodeLabel": "AHU10",
+        "nodeDescription": "Description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 1,
+        "nodeLabel": "AHU11",
+        "nodeDescription": "Description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 2,
+        "nodeLabel": "AHU12",
+        "nodeDescription": "Description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 3,
+        "nodeLabel": "AHU13",
+        "nodeDescription": "Description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 4,
+        "nodeLabel": "EF13",
+        "nodeDescription": "Exhaust Fan",
+        "polarity": "BOTH"
+      }
+    ]
+  },
+  {
+    "clusterID": "C",
+    "clusterLabel": "Area Served",
+    "clusterDescription": "The area in this floor served by linked units",
+    "nodes": [
+      {
+        "id": 0,
+        "nodeLabel": "P001",
+        "nodeDescription": "Exhaust Fan",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 1,
+        "nodeLabel": "ELEV3",
+        "nodeDescription": "Exhaust Fan",
+        "polarity": "BOTH"
+      }
+    ]
+  },
+  {
+    "clusterID": "D",
+    "clusterLabel": "Area function",
+    "clusterDescription": "",
+    "nodes": []
+  }
+]

@@ -1,0 +1,377 @@
+[
+  {
+    "clusterID": "A",
+    "clusterLabel": "Meter",
+    "clusterDescription": " Meter ID",
+    "nodes": []
+  },
+  {
+    "clusterID": "B",
+    "clusterLabel": "Outlet",
+    "clusterDescription": "",
+    "nodes": [
+      {
+        "id": 0,
+        "nodeLabel": "AHU1",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 1,
+        "nodeLabel": "AHU2",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 2,
+        "nodeLabel": "AHU4",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 3,
+        "nodeLabel": "AHU5",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 4,
+        "nodeLabel": "AHU7,8,9,14,15",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 5,
+        "nodeLabel": "AHU11",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 6,
+        "nodeLabel": "AHU12",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 7,
+        "nodeLabel": "AHU13",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 8,
+        "nodeLabel": "EF 4,5,6,7",
+        "nodeDescription": "Exhaust Fan",
+        "polarity": "BOTH"
+      }
+    ]
+  },
+  {
+    "clusterID": "C",
+    "clusterLabel": "Area Served",
+    "clusterDescription": "The area in this floor served by linked units",
+    "nodes": [
+      {
+        "id": 0,
+        "nodeLabel": "1013",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 1,
+        "nodeLabel": "1015",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 2,
+        "nodeLabel": "corridor c1010",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 3,
+        "nodeLabel": "Grainger Auditorium 1002",
+        "nodeDescription": "Auditorium",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 4,
+        "nodeLabel": "Clean 1003",
+        "nodeDescription": "Clean room",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 5,
+        "nodeLabel": "1022",
+        "nodeDescription": "",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 6,
+        "nodeLabel": "1024",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 7,
+        "nodeLabel": "1031 & (A, A1)",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 8,
+        "nodeLabel": "1032",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 9,
+        "nodeLabel": "1033",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 10,
+        "nodeLabel": "1036",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 11,
+        "nodeLabel": "1041",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 12,
+        "nodeLabel": "1042",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 13,
+        "nodeLabel": "1044",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 14,
+        "nodeLabel": "1046",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 15,
+        "nodeLabel": "Lobby C1000",
+        "nodeDescription": "Main lobby",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 16,
+        "nodeLabel": "1060",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 17,
+        "nodeLabel": "1062",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 18,
+        "nodeLabel": "1064",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 19,
+        "nodeLabel": "1066",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 20,
+        "nodeLabel": "1068",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 21,
+        "nodeLabel": "1072",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 22,
+        "nodeLabel": "1076",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 23,
+        "nodeLabel": "corridor 1050 & 1070",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 24,
+        "nodeLabel": "Texas Instruments 1001 & 1001A2",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 25,
+        "nodeLabel": "1005",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 26,
+        "nodeLabel": "1014 & (A1, A2)",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 27,
+        "nodeLabel": "TI Student center 1016",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 28,
+        "nodeLabel": "Corridor 1020A",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 29,
+        "nodeLabel": "1045",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 30,
+        "nodeLabel": "1047",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 31,
+        "nodeLabel": "1048",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 32,
+        "nodeLabel": "1049",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 33,
+        "nodeLabel": "1027 & 1025",
+        "nodeDescription": "Bathrooms",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 34,
+        "nodeLabel": "1007, 1009, 1011",
+        "nodeDescription": "Bathrooms",
+        "polarity": "BOTH"
+      }
+    ]
+  },
+  {
+    "clusterID": "D",
+    "clusterLabel": "Area function",
+    "clusterDescription": "",
+    "nodes": [
+      {
+        "id": 0,
+        "nodeLabel": "Auditorium",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 1,
+        "nodeLabel": "Laboratory",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 2,
+        "nodeLabel": "Classroom",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 3,
+        "nodeLabel": "Administrative office",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 4,
+        "nodeLabel": "Faculty office",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 5,
+        "nodeLabel": "Bathroom",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 6,
+        "nodeLabel": "Service area",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 7,
+        "nodeLabel": "Lobby or corridor",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 8,
+        "nodeLabel": "Meeting/conference room",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 9,
+        "nodeLabel": "Cafe",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 10,
+        "nodeLabel": "Collaboration space",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 11,
+        "nodeLabel": "Grad student office",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 12,
+        "nodeLabel": "Machine shop",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 13,
+        "nodeLabel": "Storage",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      }
+    ]
+  }
+]

@@ -1,0 +1,323 @@
+[
+  {
+    "clusterID": "A",
+    "clusterLabel": "Meter",
+    "clusterDescription": " Meter ID",
+    "nodes": []
+  },
+  {
+    "clusterID": "B",
+    "clusterLabel": "Outlet",
+    "clusterDescription": "",
+    "nodes": [
+      {
+        "id": 0,
+        "nodeLabel": "AHU1",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 1,
+        "nodeLabel": "AHU2",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 2,
+        "nodeLabel": "AHU10",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 3,
+        "nodeLabel": "AHU11",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 4,
+        "nodeLabel": "AHU12",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 5,
+        "nodeLabel": "AHU13",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 6,
+        "nodeLabel": "EF3",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 7,
+        "nodeLabel": "EF11",
+        "nodeDescription": "Exhaust fan",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 8,
+        "nodeLabel": "AHU 7, 8, 9, 14, 15",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      }
+    ]
+  },
+  {
+    "clusterID": "C",
+    "clusterLabel": "Area Served",
+    "clusterDescription": "The area in this floor served by linked units",
+    "nodes": [
+      {
+        "id": 0,
+        "nodeLabel": "2013",
+        "nodeDescription": "Nearing family classroom",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 1,
+        "nodeLabel": "2015",
+        "nodeDescription": "Exhaust fan",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 2,
+        "nodeLabel": "2017",
+        "nodeDescription": "Exhaust fan",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 3,
+        "nodeLabel": "corridor 2000, 2002, 2010",
+        "nodeDescription": "",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 4,
+        "nodeLabel": "2080, 82, 84, 86, 88",
+        "nodeDescription": "",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 5,
+        "nodeLabel": "2081, 83, 85, 87",
+        "nodeDescription": "",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 6,
+        "nodeLabel": "2090, 92, 94, 96, 98",
+        "nodeDescription": "",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 7,
+        "nodeLabel": "2100, 02, 04, 06, 08, 10",
+        "nodeDescription": "",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 8,
+        "nodeLabel": "2093 & 2107",
+        "nodeDescription": "",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 9,
+        "nodeLabel": "clean 2003",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 10,
+        "nodeLabel": "Open Projects lab 2026",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 11,
+        "nodeLabel": "2024",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 12,
+        "nodeLabel": "2022",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 13,
+        "nodeLabel": "2036",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 14,
+        "nodeLabel": "2034",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 15,
+        "nodeLabel": "2025 & 2027",
+        "nodeDescription": "Bathrooms",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 16,
+        "nodeLabel": "2038, 40, 42, 44, 46",
+        "nodeDescription": "",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 17,
+        "nodeLabel": "2048, 50, 52, 54",
+        "nodeDescription": "",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 18,
+        "nodeLabel": "2030",
+        "nodeDescription": "",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 19,
+        "nodeLabel": "2056, 58, 60, 62",
+        "nodeDescription": "",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 20,
+        "nodeLabel": "2064, 66, 68",
+        "nodeDescription": "",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 21,
+        "nodeLabel": "2014, 2016",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 22,
+        "nodeLabel": "2032",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 23,
+        "nodeLabel": "2065",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 24,
+        "nodeLabel": "2070, 70A1, 72, 74",
+        "nodeDescription": "Srivastava Senior Design Lab Suite",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 25,
+        "nodeLabel": "2076",
+        "nodeDescription": "Srivastava Senior Design Lab Suite",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 26,
+        "nodeLabel": "2076A1",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 27,
+        "nodeLabel": "2007, 2009, 2011",
+        "nodeDescription": "Bathrooms",
+        "polarity": "BOTH"
+      }
+    ]
+  },
+  {
+    "clusterID": "D",
+    "clusterLabel": "Area function",
+    "clusterDescription": "",
+    "nodes": [
+      {
+        "id": 0,
+        "nodeLabel": "Auditorium",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 1,
+        "nodeLabel": "Laboratory",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 2,
+        "nodeLabel": "Classroom",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 3,
+        "nodeLabel": "Administrative office",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 4,
+        "nodeLabel": "Faculty office",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 5,
+        "nodeLabel": "Bathroom",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 6,
+        "nodeLabel": "Janitor facility",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 7,
+        "nodeLabel": "Lobby or corridor",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 8,
+        "nodeLabel": "Meeting/conference room",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 9,
+        "nodeLabel": "Cafe",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 10,
+        "nodeLabel": "Collaboration space",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 11,
+        "nodeLabel": "Grad student office",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      }
+    ]
+  }
+]

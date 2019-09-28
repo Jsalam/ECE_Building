@@ -1,0 +1,245 @@
+[
+  {
+    "clusterID": "A",
+    "clusterLabel": "Meter",
+    "clusterDescription": " Meter ID",
+    "nodes": []
+  },
+  {
+    "clusterID": "B",
+    "clusterLabel": "Outlet",
+    "clusterDescription": "",
+    "nodes": [
+      {
+        "id": 0,
+        "nodeLabel": "AHU10",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 1,
+        "nodeLabel": "AHU11",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 2,
+        "nodeLabel": "AHU12",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 3,
+        "nodeLabel": "AHU13",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      }
+    ]
+  },
+  {
+    "clusterID": "C",
+    "clusterLabel": "Area Served",
+    "clusterDescription": "The area in this floor served by linked units",
+    "nodes": [
+      {
+        "id": 0,
+        "nodeLabel": "4038, 40, 42, 44",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 1,
+        "nodeLabel": "4046, 48, 50, 52",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 2,
+        "nodeLabel": "4054, 56",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 3,
+        "nodeLabel": "c4040",
+        "nodeDescription": "corridor",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 4,
+        "nodeLabel": "4022, 22A1, 24, 26",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 5,
+        "nodeLabel": "4034, 36",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 6,
+        "nodeLabel": "4030",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 7,
+        "nodeLabel": "4058, 60, 62, 64",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 8,
+        "nodeLabel": "4066",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 9,
+        "nodeLabel": "4068",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 10,
+        "nodeLabel": "4020",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 11,
+        "nodeLabel": "c4020",
+        "nodeDescription": "Corridor",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 12,
+        "nodeLabel": "4032",
+        "nodeDescription": "Description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 13,
+        "nodeLabel": "4065",
+        "nodeDescription": "Description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 14,
+        "nodeLabel": "4070",
+        "nodeDescription": "Description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 15,
+        "nodeLabel": "4072",
+        "nodeDescription": "Description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 16,
+        "nodeLabel": "4072A1",
+        "nodeDescription": "Description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 17,
+        "nodeLabel": "4074",
+        "nodeDescription": "Description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 18,
+        "nodeLabel": "4076",
+        "nodeDescription": "Description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 19,
+        "nodeLabel": "4025, 4027",
+        "nodeDescription": "Description",
+        "polarity": "BOTH"
+      }
+    ]
+  },
+  {
+    "clusterID": "D",
+    "clusterLabel": "Area function",
+    "clusterDescription": "",
+    "nodes": [
+      {
+        "id": 0,
+        "nodeLabel": "Auditorium",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 1,
+        "nodeLabel": "Laboratory",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 2,
+        "nodeLabel": "Classroom",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 3,
+        "nodeLabel": "Administrative office",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 4,
+        "nodeLabel": "Faculty office",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 5,
+        "nodeLabel": "Bathroom",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 6,
+        "nodeLabel": "Janitor facility",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 7,
+        "nodeLabel": "Lobby or corridor",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 8,
+        "nodeLabel": "Meeting/conference room",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 9,
+        "nodeLabel": "Cafe",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 10,
+        "nodeLabel": "Collaboration space",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      },
+      {
+        "id": 11,
+        "nodeLabel": "Grad student office",
+        "nodeDescription": "Category description",
+        "polarity": "BOTH"
+      }
+    ]
+  }
+]

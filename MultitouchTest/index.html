@@ -1,0 +1,62 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+
+  <!-- libraries -->
+  <script src="libs/p5.js" type="text/javascript"></script>
+  <script src="libs/p5.dom.js" type="text/javascript"></script>
+
+  <!-- codigo javaScript -->
+  <script src="javaScriptCode/p5_code.js"></script>
+  <script src="javaScriptCode/disk.js"></script>
+  <script src="javaScriptCode/diskArray.js"></script>
+
+  <!-- Bootstrap -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+</head>
+
+
+<body>
+  <div class="container" data-spy="affix_top" >
+    <h3>Multy-touch test </h3>
+    <hr>
+  </div>
+
+  <div class="container" >
+    <!-- Navigation bar-->
+    <nav class="navbar navbar-default" >
+      <div class="container">
+        <div class="navbar-header">
+          <a class="navbar-brand" href="#">Menu</a>
+        </div>
+        <ul class="nav navbar-nav">
+          <li class="active"><a href="#">Dynamic Menu</a></li>
+        </ul>
+      </div>
+    </nav>
+  </div>
+
+  <!-- First Container-->
+  <div class="container"> <a name="a1"></a>
+    <!-- Row-->
+    <div class="row">
+      <div class="col-sm-3">
+        <p>Roll over the numbers and lines should grow.</p>
+        <p>The background should change for each finger touch on the canvas.</p>
+        <p> Number of touches: <span id='touches'>0</span> <span></span> </p>
+
+      </div>
+      <div class="col-sm-8">
+        <span id='p5Instance'></span>
+      </div>
+      <div class="col-sm-1">
+
+      </div>
+    </div>
+  </body>
